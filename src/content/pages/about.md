@@ -1,37 +1,34 @@
 ---
 title: "About"
-description: "A bit about me and this blog."
+description: "About Mohammad Mohsinul Malik – Senior Network & Security Engineer, Author, and Mobile App Developer."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+**Mohammad Mohsinul Malik**  
+*Senior Engineer – Hyperscaler Networks & Security | Author | Mobile App Developer*  
+Based in Melbourne, Victoria, Australia
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+I am a Senior Network and Security Engineer with over 14 years of experience architecting, securing, and automating large-scale enterprise, data center, and service provider networks. Alongside building resilient network infrastructure, I write technical deep-dives and develop mobile applications for **Android and iOS**.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+## Certifications
+* **Juniper:** JNCIEx5
+* **Cisco:** CCIE
+* **(ISC)²:** CISSP, ISSAP
+* **Huawei:** HCIE
+* **VMware:** VCIX-NV, VCIX-DCV
+* **Project Management:** PMP
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## Core Technical Expertise
+* **Enterprise & Service Provider Networking:** ISIS, OSPF, BGP, MPLS, SD-WAN, EVPN, VXLAN
+* **Security & Zero Trust:** Next-Gen Firewalls, VPN, SASE, IAM, SIEM, NDR
+* **Data Center Architecture:** IP Clos Fabrics, L2VPNs, Tunneling
+* **Automation & Orchestration:** Python, Ansible, Junos Automation
 
-## Features
+## Mobile Apps (Android & iOS)
+* **Coming Soon / In Development:** Details, App Store, and Google Play links for my mobile apps will be published here.
+* **App Support:** [support@mmalik.net](mailto:support@mmalik.net)
+* **Privacy Policy:** [mmalik.net/privacy](/privacy)
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+## Connect
+* **Email:** [malik@mmalik.net](mailto:malik@mmalik.net)
+* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
+* **GitHub:** [://github.com](https://://github.com)
