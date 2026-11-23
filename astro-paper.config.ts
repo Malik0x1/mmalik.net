@@ -4,7 +4,7 @@ export default defineAstroPaperConfig({
   site: {
     url: "https://mmalik.net",
     title: "Mohammad Malik",
-    description: "Networking and Security Technical Write-ups, certifications, and Android & iOS apps by Mohammad Malik."",
+    description: "Networking and Security Technical Write-ups, certifications, and Android & iOS apps by Mohammad Malik.",
     author: "Mohammad Malik",
     profile: "https://mmalik.net",
     ogImage: "default-og.jpg",
