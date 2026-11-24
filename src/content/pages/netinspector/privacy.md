@@ -1,15 +1,15 @@
 ---
 layout: "@/layouts/Layout.astro"
-title: "Privacy Policy | Mohammad Malik"
+title: "Privacy Policy — Domain & Net Inspector | Mohammad Malik"
 ---
 
 <main class="mx-auto w-full max-w-3xl px-4 py-12 prose dark:prose-invert">
 
-# Privacy Policy
+# Privacy Policy — Domain & Net Inspector
 
 *Last updated: November 2026*
 
-This Privacy Policy describes how **Mohammad Mohsinul Malik** ("we", "us", or "our") handles information across our mobile applications—including **Domain & Net Inspector**—and our website (**mmalik.net**).
+This Privacy Policy describes how **Mohammad Mohsinul Malik** ("we", "us", or "our") handles information in **Domain & Net Inspector** (`net.mmalik.netinspector`) on Android and iOS, as well as on our website (**mmalik.net**).
 
 ## 1. Local Execution & On-Device Storage
 * **Direct Network Diagnostics:** All DNS lookups, TLS/HTTP audits, ICMP/TCP/UDP probes, port scans, background Watchlist checks, and SSH/Telnet/SCP sessions run directly from your device to the target hosts or servers you specify. We do not proxy, intercept, or collect your scan targets, terminal sessions, or credentials on external developer servers.
@@ -23,10 +23,10 @@ Optional **Pro** upgrades are processed securely through **Google Play Billing**
 Basic, anonymized crash logs or performance metrics provided by Google Play Services (or Apple) may be used solely to diagnose bugs and improve app stability.
 
 ## 4. Children's Privacy
-Our applications do not knowingly collect personal information from children under the age of 13.
+**Domain & Net Inspector** does not knowingly collect personal information from children under the age of 13.
 
 ## 5. Contact Us
-If you have any questions or support requests regarding our apps or this Privacy Policy, please contact us at:  
+If you have any questions or support requests regarding **Domain & Net Inspector** or this Privacy Policy, please contact us at:  
 **Support Email:** [support@mmalik.net](mailto:support@mmalik.net)  
 **Developer Contact:** [apps@mmalik.net](mailto:apps@mmalik.net)
 
