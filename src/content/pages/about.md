@@ -30,5 +30,5 @@ I am a Senior Network and Security Engineer with over 14 years of experience arc
 
 ## Connect
 * **Email:** [malik@mmalik.net](mailto:malik@mmalik.net)
-* **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
-* **GitHub:** [://github.com](https://://github.com)
+* **LinkedIn:** [Mohammad Mohsinul Malik on LinkedIn](https://linkedin.com)
+* **GitHub:** [Malik0x1 on GitHub](https://github.com)
