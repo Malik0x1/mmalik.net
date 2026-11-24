@@ -7,6 +7,8 @@ tags:
   - apps
   - android
   - ios
+  - macOS
+  - Windows
 ---
 
 Welcome to the mobile applications section of **mmalik.net**.
