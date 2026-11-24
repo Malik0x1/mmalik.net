@@ -24,9 +24,11 @@ I am a Senior Network and Security Engineer with over 14 years of experience arc
 * **Automation & Orchestration:** Python, Ansible, Junos Automation
 
 ## Mobile Apps (Android & iOS)
-* **Coming Soon / In Development:** Details, App Store, and Google Play links for my mobile apps will be published here.
+* **[Domain & Net Inspector (Android)](/posts/apps/domain-and-net-inspector):** A complete pocket diagnostic toolkit for network and security engineers—featuring DNSSEC & email security audits (SPF, DMARC, DKIM, MTA-STS, TLS-RPT, BIMI), TLS/HTTP inspection, TCP/ICMP/UDP probing, IPv4/IPv6 CIDR calculator, background Watchlist alerts, SSH/Telnet/SCP remote access, and Markdown/JSON/PDF reporting.
 * **App Support:** [support@mmalik.net](mailto:support@mmalik.net)
+* **Developer Contact:** [apps@mmalik.net](mailto:apps@mmalik.net)
 * **Privacy Policy:** [mmalik.net/privacy](/privacy)
+
 
 ## Connect
 * **Email:** [malik@mmalik.net](mailto:malik@mmalik.net)
